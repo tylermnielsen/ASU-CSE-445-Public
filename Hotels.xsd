@@ -3,6 +3,8 @@
     elementFormDefault="qualified"
 	attributeFormDefault="unqualified"
 	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns="hotels-schema"
+	targetNamespace="hotels-schema"
 	>
 
 	<xsd:element name="Hotels" type="HotelsRootType"/>
