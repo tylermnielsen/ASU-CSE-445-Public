@@ -2,7 +2,9 @@
 <xsd:schema
     elementFormDefault="qualified"
 	attributeFormDefault="unqualified"
-	targetNamespace="http://venus.sod.asu.edu/WSRepository/xml"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns="Hotels.xsd"
+	targetNamespace="Hotels.xsd"
 	>
 
 	<xsd:element name="Hotels" type="HotelsRootType"/>

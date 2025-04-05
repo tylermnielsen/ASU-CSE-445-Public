@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 
-<Hotel xmlns="hotels-schema">
+<Hotel xmlns="Hotels.xsd">
 
 	<Hotel Name="Westin" Rating="4.2">
 		<Address Number="11" Street="E. 7th St" City="Tempe" State="AZ" Zip="85281" NearstAirport="Sky Harbor"/>
