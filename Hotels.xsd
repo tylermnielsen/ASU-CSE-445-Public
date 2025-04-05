@@ -37,7 +37,7 @@
 		<xsd:attribute name="City" type="xsd:string" use="required"/>
 		<xsd:attribute name="State" type="xsd:string" use="required"/>
 		<xsd:attribute name="Zip" type="xsd:string" use="required"/>
-		<xsd:attribute name="NearestAirport" type="xsd:string" use="optional"/>
+		<xsd:attribute name="NearstAirport" type="xsd:string" use="optional"/>
 	</xsd:complexType>
 
 	

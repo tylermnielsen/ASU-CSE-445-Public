@@ -4,7 +4,7 @@
 <Hotels xmlns="urn:hotels-schema">
 	
 	<Hotel Name="Westin" Rating="4.2">
-		<Address Number="11" Street="E. 7th St" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
+		<Address Number="11" Street="E. 7th St" City="Tempe" State="AZ" Zip="85281" NearstAirport="Sky Harbor"/>
 
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
@@ -12,56 +12,56 @@
 
 	
 	<Hotel Name="Hotel Valley Ho" Rating="4.6">
-		<Address Number="6850" Street="E Main St" City="Scottsdale" State="AZ" Zip="85251" NearestAirport="Sky Harbor"/>
+		<Address Number="6850" Street="E Main St" City="Scottsdale" State="AZ" Zip="85251" NearstAirport="Sky Harbor"/>
 
 		<Phone>480-248-2000</Phone>
 	</Hotel>
 
 	
-	<Hotel Name="Ac Hotel" Rating="4.6">
-		<Address Number="100" Street="East Rio Salado Parkway" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
+	<Hotel Name="Ac Hotel">
+		<Address Number="100" Street="East Rio Salado Parkway" City="Tempe" State="AZ" Zip="85281" NearstAirport="Sky Harbor"/>
 
 		<Phone>480-642-6140</Phone>
 	</Hotel>
 
 	<Hotel Name="Hilton Garden Inn" Rating="4.6">
-		<Address Number="86" Street="S Rockford Dr." City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
+		<Address Number="86" Street="S Rockford Dr." City="Tempe" State="AZ" Zip="85281" NearstAirport="Sky Harbor"/>
 
 		<Phone>855-618-4697</Phone>
 	</Hotel>
 
 	<Hotel Name="Hyatt Place" Rating="4.5">
-		<Address Number="1422" Street="W Bass Pro Dr" City="Mesa" State="AZ" Zip="85201" NearestAirport="Sky Harbor"/>
+		<Address Number="1422" Street="W Bass Pro Dr" City="Mesa" State="AZ" Zip="85201" NearstAirport="Sky Harbor"/>
 
 		<Phone>480-969-8200</Phone>
 	</Hotel>
 
 	<Hotel Name="Hampton Inn &amp; Suites" Rating="4.5">
-		<Address Number="1415" Street="N. Scottsdale Road" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
+		<Address Number="1415" Street="N. Scottsdale Road" City="Tempe" State="AZ" Zip="85281" NearstAirport="Sky Harbor"/>
 
 		<Phone>855-605-0317</Phone>
 	</Hotel>
 
 	<Hotel Name="Residence Inn By Marriott" Rating="4.5">
-		<Address Number="510" Street="South Forest Avenue" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
+		<Address Number="510" Street="South Forest Avenue" City="Tempe" State="AZ" Zip="85281" NearstAirport="Sky Harbor"/>
 
 		<Phone>480-967-2300</Phone>
 	</Hotel>
 
 	<Hotel Name="Canopy By Hilton" Rating="4.5">
-		<Address Number="108" Street="E. University Drive" City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
+		<Address Number="108" Street="E. University Drive" City="Tempe" State="AZ" Zip="85281" NearstAirport="Sky Harbor"/>
 
 		<Phone>877-214-9171</Phone>
 	</Hotel>
 
 	<Hotel Name="Graduate By Hilton Tempe" Rating="4.2">
-		<Address Number="225" Street="E. Apache Blvd." City="Tempe" State="AZ" Zip="85281" NearestAirport="Sky Harbor"/>
+		<Address Number="225" Street="E. Apache Blvd." City="Tempe" State="AZ" Zip="85281" NearstAirport="Sky Harbor"/>
 
 		<Phone>855-605-0316</Phone>
 	</Hotel>
 
 	<Hotel Name="Marriot Phoenix Resort Tempe at The Buttes" Rating="4.1">
-		<Address Number="2000" Street="W Westcourt Way" City="Tempe" State="AZ" Zip="85282" NearestAirport="Sky Harbor"/>
+		<Address Number="2000" Street="W Westcourt Way" City="Tempe" State="AZ" Zip="85282" NearstAirport="Sky Harbor"/>
 
 		<Phone>602-225-9000</Phone>
 	</Hotel>
