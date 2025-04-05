@@ -26,8 +26,8 @@
 	<Hotel Name="Hilton Garden Inn" Rating="4.6">
 		<Address Number="86" Street="S Rockford Dr." City="Tempe" State="AZ" Zip="85281" NearstAirport="Sky Harbor">
 
-		<Phone>855-618-4697</Phone>
-	</Hotel>
+			<Phone>855-618-4697</Phone>
+		</Hotel>
 
 	<Hotel Name="Hyatt Place" Name="Hyatt Place Mesa" Rating="4.5">
 		<Address Number="1422" Street="W Bass Pro Dr" City="Mesa" State="AZ" Zip="85201" NearstAirport="Sky Harbor"/>

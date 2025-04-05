@@ -8,7 +8,7 @@
 	>
 
 	<xsd:element name="Hotels" type="HotelsRootType"/>
-	
+
 	<xsd:complexType name="HotelsRootType">
 		<xsd:sequence>
 			<xsd:element name="Hotel" type="HotelType" minOccurs="1" maxOccurs="unbounded"/>
@@ -20,7 +20,7 @@
 			<xsd:pattern value="\d{3}\-\d{3}-\d{4}"/>
 		</xsd:restriction>
 	</xsd:simpleType>
-	
+
 
 	<xsd:complexType name="HotelType">
 		<xsd:sequence>
@@ -40,6 +40,6 @@
 		<xsd:attribute name="NearstAirport" type="xsd:string" use="optional"/>
 	</xsd:complexType>
 
-	
+
 
 </xsd:schema>

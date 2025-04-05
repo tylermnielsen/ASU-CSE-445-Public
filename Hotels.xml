@@ -2,7 +2,7 @@
 
 
 <Hotels xmlns="Hotels.xsd">
-	
+
 	<Hotel Name="Westin" Rating="4.2">
 		<Address Number="11" Street="E. 7th St" City="Tempe" State="AZ" Zip="85281" NearstAirport="Sky Harbor"/>
 
@@ -10,14 +10,14 @@
 		<Phone>800-937-8461</Phone>
 	</Hotel>
 
-	
+
 	<Hotel Name="Hotel Valley Ho" Rating="4.6">
 		<Address Number="6850" Street="E Main St" City="Scottsdale" State="AZ" Zip="85251" NearstAirport="Sky Harbor"/>
 
 		<Phone>480-248-2000</Phone>
 	</Hotel>
 
-	
+
 	<Hotel Name="Ac Hotel">
 		<Address Number="100" Street="East Rio Salado Parkway" City="Tempe" State="AZ" Zip="85281" NearstAirport="Sky Harbor"/>
 
@@ -65,7 +65,7 @@
 
 		<Phone>602-225-9000</Phone>
 	</Hotel>
-	
-	
+
+
 
 </Hotels>
